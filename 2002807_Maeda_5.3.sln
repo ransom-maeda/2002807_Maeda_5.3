@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2002807_Maeda_5.3", "2002807_Maeda_5.3\2002807_Maeda_5.3.csproj", "{90606EA9-A10F-4ED3-8EB4-F08A8497C678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90606EA9-A10F-4ED3-8EB4-F08A8497C678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90606EA9-A10F-4ED3-8EB4-F08A8497C678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90606EA9-A10F-4ED3-8EB4-F08A8497C678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90606EA9-A10F-4ED3-8EB4-F08A8497C678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504E903F-112B-4CF3-A9D2-2585EB79FD17}
+	EndGlobalSection
+EndGlobal
